@@ -1,5 +1,8 @@
-# Rust Native Browser-Based Chat Application
+# Rust Browser-Based Chat Application
 
-Lightweight and efficient chat application built using the power and safety of Rust. Designed with both simplicity and functionality in mind.
+This project is a lightweight and efficient chat application built using the power and safety of Rust, leveraging WebAssembly (WASM) for browser-side functionality.
 
-Work in progress.
+## Work in Progress
+
+Currently in active development, and new features and improvements are being added.
+
