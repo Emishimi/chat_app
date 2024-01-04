@@ -1,0 +1,1 @@
+/Users/eminhashimi/RustroverProjects/chat_app/wasm_chat_client/target/wasm32-unknown-unknown/release/libwasm_chat_client.rlib: /Users/eminhashimi/RustroverProjects/chat_app/wasm_chat_client/src/lib.rs

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>WASM Chat</title>
+    <script type="module">
+        import init from './path/to/wasm_chat_client_pkg.js';
+
+        async function loadWasm() {
+            await init();
+        }
+
+        window.onload = loadWasm;
+    </script>
+</head>
+<body>
+<h1>WebAssembly Chat</h1>
+</body>
+</html>
